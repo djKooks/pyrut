@@ -1,0 +1,12 @@
+[package]
+name = "rustring"
+version = "0.1.0"
+authors = ["djKooks <inylove82@gmail.com>"]
+
+[lib]
+name = "rustring"
+crate-type = ["cdylib"]
+
+[dependencies.cpython]
+version = "0.2"
+features = ["extension-module"]
