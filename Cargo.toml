@@ -1,10 +1,10 @@
 [package]
-name = "rustring"
+name = "pyrut"
 version = "0.1.0"
 authors = ["djKooks <inylove82@gmail.com>"]
 
 [lib]
-name = "rustring"
+name = "pyrut"
 crate-type = ["cdylib"]
 
 [dependencies.cpython]

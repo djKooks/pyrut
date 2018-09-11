@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='rustring',
+    name='pyrut',
     version='0.1',
     description='TODO',
     author='TODO',
     author_email='TODO',
     package_data={
-        'rustring' : [
-            'rustring/librustring.so'
+        'pyrut' : [
+            'pyrut/libpyrut.so'
     ]},
     classifiers      = [
         'Programming Language :: Python :: 3',
