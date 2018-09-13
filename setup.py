@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pyrut',
+    name='txport',
     version='0.1',
     description='TODO',
     author='TODO',
     author_email='TODO',
     package_data={
-        'pyrut' : [
-            'pyrut/libpyrut.so'
+        'txport' : [
+            'txport/libtxport.so'
     ]},
     classifiers      = [
         'Programming Language :: Python :: 3',

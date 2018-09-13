@@ -1,10 +1,10 @@
 [package]
-name = "pyrut"
+name = "txport"
 version = "0.1.0"
 authors = ["djKooks <inylove82@gmail.com>"]
 
 [lib]
-name = "pyrut"
+name = "txport"
 crate-type = ["cdylib"]
 
 [dependencies.cpython]
